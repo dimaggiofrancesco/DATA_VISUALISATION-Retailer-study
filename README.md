@@ -4,7 +4,11 @@
 
 This report accounts for the relatively high sales of footwear across the two-years period 2017/18. To have a clear idea of the sales it is crucial to focus on the discount every category has been subjected to. GRAPH 1 shows the max-discount averaged per category in the years 2016/17.
 
-<div style="text-align:right"><img src="https://github.com/dimaggiofrancesco/DATA_VISUALISATION-Retailer-data/blob/master/Figure_1.png" width="400" height="300" /></div>
+<p align="center">
+<img src="https://github.com/dimaggiofrancesco/DATA_VISUALISATION-Retailer-data/blob/master/Figure_1.png" width="400" height="300" />
+</p>
+
+
   
 As shown in the bar chart, the less discounted sectors are: accessories, beauty, non-apparel, and suits-sets. The remaining sectors were subjected to an average discount of approximately 40%. The trend of discounts was very similar across UK and US sales, with a constantly lower discounts applied to UK products. A direct effect of these applied discounts can be appreciated by examining the two graphs below, which show the absolute (GRAPH 2a) and relative (GRAPH 2b) percentage of options that did not sell-out during these two years.
 
