@@ -7,8 +7,6 @@ This report accounts for the relatively high sales of footwear across the two-ye
 <p align="center">
 <img src="https://github.com/dimaggiofrancesco/DATA_VISUALISATION-Retailer-data/blob/master/Figure_1.png" width="400" height="300" />
 </p>
-
-
   
 As shown in the bar chart, the less discounted sectors are: accessories, beauty, non-apparel, and suits-sets. The remaining sectors were subjected to an average discount of approximately 40%. The trend of discounts was very similar across UK and US sales, with a constantly lower discounts applied to UK products. A direct effect of these applied discounts can be appreciated by examining the two graphs below, which show the absolute (GRAPH 2a) and relative (GRAPH 2b) percentage of options that did not sell-out during these two years.
 
@@ -17,8 +15,9 @@ As shown in the bar chart, the less discounted sectors are: accessories, beauty,
 
 It is worth to mention that the categories subjected to a lower discount are those with relatively less sell out. On the contrary, all the other categories showed a relatively high sold out percentage. GRAPH 3 shows the correlation between the percentages of the discount applied versus the percentages of the options that did not see-out for both UK (blue, GBP currency) and US (orange, USD currency) market. The graph exhibits a linear trend where the percentage of the options that did not sell-out decreases with the increased applied discount.
 
+<p align="center">
 <img src="https://github.com/dimaggiofrancesco/DATA_VISUALISATION-Retailer-data/blob/master/Figure_4.png" width="400" height="300" />
-
+</p>
 
 In this report I would like to focus on the footwear options, which displayed the highest sales compared to the other categories (GRAPH 2a and 2b), despite their max-discount, 40%, was in line with most of the categories (GRAPH 1). The relatively high sales of footwear could play an important role for the overall income. By increasing the price or by reducing the max-discount, we would expect to have a slightly decrease in sales, but an overall higher income. GRAPH 4a and 4b show the footwear max-discount and price grouped by month.
 
@@ -28,7 +27,9 @@ The graphs exhibit a higher discount percentage for footwear items sold in Unite
 
 The histogram in GRAPH 5 shows the distribution of the days passed from when the footwear stock went live on the website and the day of the options sold out.
 
+<p align="center">
 <img src="https://github.com/dimaggiofrancesco/DATA_VISUALISATION-Retailer-data/blob/master/Figure_7.png" width="400" height="300" />
+</p>
 
 Both UK (GBP) and US (USD) markets display Gaussian trends with USD market having the centre of the peak slightly shifted towards lower x-axis values: 140 days compared to 150 days for UK stocks. These results provide important information on when the stock should be replenished.
 
