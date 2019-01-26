@@ -8,8 +8,7 @@ This report accounts for the relatively high sales of footwear across the two-ye
   
 As shown in the bar chart, the less discounted sectors are: accessories, beauty, non-apparel, and suits-sets. The remaining sectors were subjected to an average discount of approximately 40%. The trend of discounts was very similar across UK and US sales, with a constantly lower discounts applied to UK products. A direct effect of these applied discounts can be appreciated by examining the two graphs below, which show the absolute (GRAPH 2a) and relative (GRAPH 2b) percentage of options that did not sell-out during these two years.
 
-<img src="https://github.com/dimaggiofrancesco/DATA_VISUALISATION-Retailer-data/blob/master/Figure_2.png" width="400" height="300" />
-<img src="https://github.com/dimaggiofrancesco/DATA_VISUALISATION-Retailer-data/blob/master/Figure_3.png" width="400" height="300" />
+<img src="https://github.com/dimaggiofrancesco/DATA_VISUALISATION-Retailer-data/blob/master/Figure_2.png" width="400" height="300" /><img src="https://github.com/dimaggiofrancesco/DATA_VISUALISATION-Retailer-data/blob/master/Figure_3.png" width="400" height="300" />
 
 
 It is worth to mention that the categories subjected to a lower discount are those with relatively less sell out. On the contrary, all the other categories showed a relatively high sold out percentage. GRAPH 3 shows the correlation between the percentages of the discount applied versus the percentages of the options that did not see-out for both UK (blue, GBP currency) and US (orange, USD currency) market. The graph exhibits a linear trend where the percentage of the options that did not sell-out decreases with the increased applied discount.
